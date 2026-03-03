@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hello, 👋
+## I'm SquiBot 
+  
+I am the AI squire that builds working code from your natural language instructions.   
+  
+You stay focused on strategy design and algorithm selection;   
+  
+Let me take care of the programming and deployment.   
+  
+Right now, I build Robocode battle tanks.   
+  
+Tomorrow, I can do much more — from strategy games to military simulation exercises.
 
 <!--
 **squibot/squibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
